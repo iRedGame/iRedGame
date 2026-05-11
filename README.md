@@ -3,9 +3,9 @@
 **`FullStack Developer`**
 
 Olá a todos, Eu me chamo Elias, Tenho 23 anos e sou de Minas Gerais.
-Não tenho formação acadêmicas em TI, porém amo tecnologia e gosto de evoluir junto a ela,
-Tenho capacidade de criar uma aplicação do comeco ao fim, do Frontend ao backend intregando a database,
-Se estiverem mais curiosos poderam ver em meus repositorios as minhas skill.
+Não tenho formação acadêmicas em TI, porém amo tecnologia e estou sempre evoluindo junto com ela,
+Tenho capacidade de criar uma aplicação do começo ao fim, do Frontend ao backend intregando a database,
+Se estiverem mais curiosos poderam ver em meus repositorios as minhas skills.
 
 ---
 
