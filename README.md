@@ -1,4 +1,4 @@
-## 👨‍💻 Elias S.
+# 👨‍💻 Elias S.
 
 **`FullStack Developer`**
 
