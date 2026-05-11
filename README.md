@@ -9,7 +9,7 @@ Se estiverem mais curiosos poderam ver em meus repositorios as minhas skills.
 
 ---
 
-### 🤖 Language e Technology
+### 🤖 Language & Technology
 
 <img 
   alt="HTML"
