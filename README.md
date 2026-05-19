@@ -4,7 +4,7 @@
 
 Olá a todos, Eu me chamo Elias, Tenho 23 anos e sou de Minas Gerais.
 Não tenho formação acadêmicas em TI, porém amo tecnologia e estou sempre evoluindo junto com ela,
-Tenho capacidade de criar uma aplicação do começo ao fim, do Frontend ao backend intregando a database,
+Tenho capacidade de criar uma aplicação do começo ao fim, do Frontend ao backend integrando a database,
 Se estiverem mais curiosos poderam ver em meus repositorios as minhas skills.
 
 ---
